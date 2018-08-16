@@ -52,7 +52,7 @@
     $ wget --random-wait -r -p -e robots=off -U mozilla http://www.example.com
 ```
 
-10. 实时查看本机网络服务的活动状态
+10. 实时查看本机网络服务的活动状态
 ```shell
     $ lsof -i
 ```
