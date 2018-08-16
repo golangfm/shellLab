@@ -1,4 +1,5 @@
-### shell note 20180816
+shell note 20180816
+===================
 0. Where there is a shell, there is a way!
 
 1. 以root身份执行上一条命令
